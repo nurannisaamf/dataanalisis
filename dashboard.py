@@ -7,7 +7,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Preparing day_df data
-day_df = pd.read_csv('C:\\Users\\LENOVO\\Downloads\\bike-sharing-rentals-main\\dashboard\\day.csv')
+day_df = pd.read_csv('day.csv')
 day_df.head()
 
 # Dropping unnecessary columns
