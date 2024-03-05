@@ -1,1 +1,1 @@
-https://share.streamlit.io/
+https://nurannis.streamlit.app/
